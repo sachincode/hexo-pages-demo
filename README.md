@@ -8,10 +8,17 @@ https://juejin.im/post/5dc7ea17518825607c0de8a7#heading-0
 
 # tips
 -- first init
+
 hexo init <folder>
+
 -- every push to git
+
 hexo generate
+
 hexo deploy
+
 -- every open local
+
 hexo generate
+
 hexo server
