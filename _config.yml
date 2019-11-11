@@ -95,4 +95,6 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:sachincode/hexo-pages-demo-index.git
+  branch: master
